@@ -1,0 +1,33 @@
+angular day 9 :
+
+backend : 
+server --> express
+mongoose --> schema , model
+api's
+authentication
+
+to download : express express-session cookieParser cors uuid mongoose 
+
+to do : 
+HAPI 
+
+
+=================
+
+front end : 
+
+angular 8 
+components
+routing
+lazy loading
+services
+pipes
+directives
+angular-material
+
+==================
+
+gtihub + deployment
+
+==================
+redux
